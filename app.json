@@ -9,8 +9,8 @@
     "Rename"
   ],
   "success_url": "https://t.me/Mai_bOTs",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/Renamebot",
+  "website": "https://github.com/ikrums/FileRenameBot/blob/master",
+  "repository": "https://github.com/ikrums/FileRenameBot/blob/master",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
